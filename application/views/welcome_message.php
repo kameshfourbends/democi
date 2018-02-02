@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome This is Fourbends Openshift with codeigniter tutorial</h1>
+	<h1>Welcome This is Fourbends Openshift Saleem with codeigniter tutorial</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
